@@ -1,0 +1,11 @@
+.quality-for-parks{
+  font-size: 100px;
+  background-color: var(--bs-purple);
+  color: white;
+
+  width: 150px;
+  height: 150px;
+  margin:auto;
+  margin-bottom: 2rem;
+  border-radius: 20px
+}
