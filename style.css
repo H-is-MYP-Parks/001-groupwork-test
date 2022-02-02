@@ -5,6 +5,18 @@
 
   width: 150px;
   height: 150px;
+
+  margin:auto;
+  margin-bottom: 2rem;
+  border-radius: 20px
+}
+.burro-con-una-s{
+  font-size: 100px;
+  background-color: var(--bs-red);
+  color: white;
+  line-height: 150px;
+  width: 150px;
+  height: 150px;
   margin:auto;
   margin-bottom: 2rem;
   border-radius: 20px
